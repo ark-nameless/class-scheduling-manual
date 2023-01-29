@@ -1,0 +1,39 @@
+site_name: Class Scheduling Manual
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+    - 'Welcome to Class Scheduling Manual': index.md
+    # - 'Getting Started': 'getting-started.md'
+    - creating-a-department.md
+    - creating-new-class-schedule.md
+    - editing-an-existing-class-schedule.md
+    - registering-new-student-admin.md
+    - requesting-subject-from-a-different-department.md
+    - registering-new-teacher.md
+    - generating-documents.md
+
+extra_css:
+  - stylesheets/extra.css
+
+theme:
+    name: material
+    custom_dir: themes/
+    palette:     
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
