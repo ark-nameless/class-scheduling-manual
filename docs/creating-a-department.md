@@ -14,14 +14,14 @@ Using the left navigation bar, select the bottom icon to go to the departments p
 
 Once you navigate to the departments pages, you'll be shown with a page similar to the image shown.
 
-![Departments page](2023-01-29-14-56-29.png)
+![Departments page](../assets/images/2023-01-29-14-56-29.png)
 
 ## Creating the new department
 
 Once you've navigated to the departments page. You'll see a button on the screen that shows **Create New Department**
 You can click that button to show that field that you need to fill up to create a new department similar to the image shown.
 
-![New department fields](2023-01-29-14-59-02.png)
+![New department fields](../assets/images/2023-01-29-14-59-02.png)
 
 Once you can see the fields, fill up all the fields then click the **Create Deparment** button to create a button.
 Once that department is created, you can see that department in the table.

@@ -10,11 +10,11 @@ nav:
     # - 'Getting Started': 'getting-started.md'
     - creating-a-department.md
     - creating-new-class-schedule.md
-    - editing-an-existing-class-schedule.md
-    - registering-new-student-admin.md
-    - requesting-subject-from-a-different-department.md
-    - registering-new-teacher.md
-    - generating-documents.md
+    # - editing-an-existing-class-schedule.md
+    # - registering-new-student-admin.md
+    # - requesting-subject-from-a-different-department.md
+    # - registering-new-teacher.md
+    # - generating-documents.md
 
 extra_css:
   - stylesheets/extra.css
